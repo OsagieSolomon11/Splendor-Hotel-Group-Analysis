@@ -28,57 +28,53 @@ Analytical tool used: Power BI
 
 The raw look of the data: The raw data needs to be scrutinized through data cleaning process to make our data fit for analysis.
 
+ <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*x3K9tzzpPrNd90bAHBAj5g.png">
+
 
 Using ‘Replace values’ function to change ‘0’ to ‘successful’ and ‘1’ to ‘cancelled’ in the ‘Cancelled (0/1)’ column.
 
+ <img src="https://miro.medium.com/v2/resize:fit:226/format:webp/1*7J2s2rWvuMEPA4qF6bVALQ.png">
 
 Outcome:
+ <img src="https://miro.medium.com/v2/resize:fit:548/format:webp/1*Ym6EiRBPhxZkSa9GH0vsBA.png">
+
 
 
 Evaluating the needed calculated values using DAX.
 
 Cancelled bookings:
 
+ <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*EWIMPjw4VD22JUk6Hol-HQ.png">
+
 
 Successful bookings:
+
+ <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Rnt1yulRWX-hu5g0weMkKw.png">
+
 
 
 Total number of bookings:
 
+ <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*GpYLLfkzzuvQBFze4D_cFg.png">
+
+
 
 Total revenue:
 
+ <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Iz6g0MFlV3Z4yEgv8cav3Q.png">
 
-Average stay time:
+
+
+Average stay time: 
+
+ <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*oWQTiEbe39xt6Dh0kNXCGA.png">
+
 
 
 Solving the business questions with visualization:
 
-The relationship between bookings cancelled with revenue generated and revenue loss:
 
-2. Top 5 countries by revenue:
-
-
-3. Revenue by customer type:
-
-
-4. Successful bookings by distribution channel:
-
-
-5. Average lead time (days) by distribution channel:
-
-
-6. Revenue by distribution channel:
-
-
-7. Average stay time (nights) by customer type:
-
-
-8. Cancelled bookings by deposit type:
-
-
-The dashboards:
-
+ <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*FDoN1KV1B6ev2jPonZgZRg.png">
 
 
 Insights:
@@ -104,7 +100,3 @@ The insight about the offline travel agent channel having the highest number of 
 Given that Portugal is the top revenue generator, consider investing more resources in marketing and promotional activities specifically targeted at the Portuguese market. While the United Kingdom is the second-highest revenue-generating region, there may be opportunities to optimize marketing strategies. Conduct market research to understand the preferences and needs of customers in the UK.
 
 Despite high booking cancellation rates, revenue was not significantly affected. However, it’s important to keep an eye on cancellation trends. If cancellation rates start impacting revenue, consider implementing policies or incentives to reduce cancellations, such as non-refundable booking options or exclusive perks for non-cancellable reservations.
-
- <img src="https://raw.githubusercontent.com/FridayCandour/Splendor-Hotel-Group-Analysis/main/download%20(6).jpg">
-
- <iframe title="Istanbul dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWJiNzZjYmUtNTRlZi00ZDlkLTk1YTgtOTYzMjg0NmU3MDFkIiwidCI6IjE4YzUwNjU2LWQzZWUtNGUxOC04MTkwLWNmY2EyYzhiOGM0MyJ9" frameborder="0" allowFullScreen="true"></iframe>
